@@ -1,2 +1,28 @@
-# Weather-dashboard
-A spot where you can see the weather for a city 5 days at a time.
+
+
+# Weather Dashboard
+---
+
+# Purpose
+---
+Used to show the weather of a city for 5 days.
+
+---
+
+# Built With
+
+---
+>HTML
+>CSS
+>JAVASCRIPT
+>WEATHER API INTEGRATION
+
+---
+
+# Website
+
+---
+
+https://jramos20022.github.io/Weather-dashboard/
+
+---
